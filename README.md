@@ -55,4 +55,4 @@ Compare campaign-level metrics and outcomes.
 🧮 Data Analysis
 
 ⭐ This project demonstrates the use of Power BI dashboards to transform marketing data into actionable insights, enabling organizations to improve campaign performance and maximize business growth. 🚀📊✨
-screenshot of Dashboard:
+screenshot of Dashboard:https://github.com/CRuSX/Marketing-Campaign-Analysis-Dashboard-/blob/main/Screenshot%202026-05-31%20135013.png
